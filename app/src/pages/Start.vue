@@ -353,7 +353,6 @@ export default defineComponent({
 <style lang="css">
 /* --- 既存のスタイルを活かした調整 --- */
 .start-section {
-  max-width: 1000px;
   margin: 45px auto;
   margin-bottom: 60px; /* 下に少し余裕を持たせました */
   padding: 0 16px;

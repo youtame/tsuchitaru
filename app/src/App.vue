@@ -105,7 +105,7 @@ onMounted(() => {
 <style lang="css" scoped>
 .main-view {
     width: 90%;
-    max-width: 900px;
+    max-width: 1200px;
     margin: auto;
 }
 

@@ -249,7 +249,6 @@ const formatDate = (dateStr: string) => {
 }
 
 .notice-section {
-  max-width: 1000px;
   margin: 60px auto 30px;
   padding: 0 16px;
 }
@@ -301,7 +300,6 @@ const formatDate = (dateStr: string) => {
 }
 
 .start-section {
-  max-width: 1000px;
   margin: 30px auto 30px;
   padding: 0 16px;
 }
@@ -315,7 +313,6 @@ const formatDate = (dateStr: string) => {
   --v-btn-height: 80px;
   display: block;
   width: 100%;
-  max-width: 1000px;
   min-width: 220px;
   height: 50px;
   gap: 12px;
@@ -327,13 +324,11 @@ const formatDate = (dateStr: string) => {
 }
 
 .warning-card {
-  max-width: 1000px;
   margin: 10px auto 45px;
   font-size: 16px;
 }
 
 .warning-section {
-  max-width: 1000px;
   padding: 0 16px;
 }
 
