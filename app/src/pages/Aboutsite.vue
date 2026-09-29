@@ -32,7 +32,7 @@
                 </v-list-item>
             </v-list>
             <v-row
-                class="px-4 gap-4 mb-12 mt-5"
+                class="gap-4 mb-12 mt-5"
                 justify="start"
                 direction="column"
                 :md-direction="'row'"
@@ -63,13 +63,13 @@
 <style scoped>
 .about-section {
     max-width: 1000px;
-    margin: 60px auto;
+    margin: 45px auto;
     margin-bottom: 30px;
     padding: 0 16px;
 }
 
 .main-button {
-    --v-btn-height: 50px; 
+    --v-btn-height: 50px;
     display: block;
     width: 100%;
     max-width: 1000px;
